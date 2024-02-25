@@ -1,0 +1,76 @@
+C:\Users\dalpi\Desktop\programção\API em C\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\dalpi\Desktop\programção\API em C\bin\Debug\net7.0\appsettings.json
+C:\Users\dalpi\Desktop\programção\API em C\bin\Debug\net7.0\API em C.exe
+C:\Users\dalpi\Desktop\programção\API em C\bin\Debug\net7.0\API em C.deps.json
+C:\Users\dalpi\Desktop\programção\API em C\bin\Debug\net7.0\API em C.runtimeconfig.json
+C:\Users\dalpi\Desktop\programção\API em C\bin\Debug\net7.0\API em C.dll
+C:\Users\dalpi\Desktop\programção\API em C\bin\Debug\net7.0\API em C.pdb
+C:\Users\dalpi\Desktop\programção\API em C\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\dalpi\Desktop\programção\API em C\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\dalpi\Desktop\programção\API em C\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\dalpi\Desktop\programção\API em C\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\dalpi\Desktop\programção\API em C\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\dalpi\Desktop\programção\API em C\obj\Debug\net7.0\API em C.csproj.AssemblyReference.cache
+C:\Users\dalpi\Desktop\programção\API em C\obj\Debug\net7.0\API em C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dalpi\Desktop\programção\API em C\obj\Debug\net7.0\API em C.AssemblyInfoInputs.cache
+C:\Users\dalpi\Desktop\programção\API em C\obj\Debug\net7.0\API em C.AssemblyInfo.cs
+C:\Users\dalpi\Desktop\programção\API em C\obj\Debug\net7.0\API em C.csproj.CoreCompileInputs.cache
+C:\Users\dalpi\Desktop\programção\API em C\obj\Debug\net7.0\API em C.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dalpi\Desktop\programção\API em C\obj\Debug\net7.0\API em C.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dalpi\Desktop\programção\API em C\obj\Debug\net7.0\staticwebassets\msbuild.API em C.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dalpi\Desktop\programção\API em C\obj\Debug\net7.0\staticwebassets\msbuild.build.API em C.props
+C:\Users\dalpi\Desktop\programção\API em C\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API em C.props
+C:\Users\dalpi\Desktop\programção\API em C\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API em C.props
+C:\Users\dalpi\Desktop\programção\API em C\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\dalpi\Desktop\programção\API em C\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\dalpi\Desktop\programção\API em C\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\dalpi\Desktop\programção\API em C\obj\Debug\net7.0\scopedcss\bundle\API em C.styles.css
+C:\Users\dalpi\Desktop\programção\API em C\obj\Debug\net7.0\API em C.dll
+C:\Users\dalpi\Desktop\programção\API em C\obj\Debug\net7.0\refint\API em C.dll
+C:\Users\dalpi\Desktop\programção\API em C\obj\Debug\net7.0\API em C.pdb
+C:\Users\dalpi\Desktop\programção\API em C\obj\Debug\net7.0\API em C.genruntimeconfig.cache
+C:\Users\dalpi\Desktop\programção\API em C\obj\Debug\net7.0\ref\API em C.dll
+C:\Users\dalpi\Desktop\programção\API em C\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\dalpi\Desktop\programção\API em C\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\dalpi\Desktop\programção\API em C\bin\Debug\net7.0\Humanizer.dll
+C:\Users\dalpi\Desktop\programção\API em C\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dalpi\Desktop\programção\API em C\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\dalpi\Desktop\programção\API em C\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\dalpi\Desktop\programção\API em C\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dalpi\Desktop\programção\API em C\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\dalpi\Desktop\programção\API em C\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dalpi\Desktop\programção\API em C\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\dalpi\Desktop\programção\API em C\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\dalpi\Desktop\programção\API em C\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\dalpi\Desktop\programção\API em C\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\dalpi\Desktop\programção\API em C\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\dalpi\Desktop\programção\API em C\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dalpi\Desktop\programção\API em C\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\dalpi\Desktop\programção\API em C\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dalpi\Desktop\programção\API em C\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dalpi\Desktop\programção\API em C\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dalpi\Desktop\programção\API em C\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\dalpi\Desktop\programção\API em C\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dalpi\Desktop\programção\API em C\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\dalpi\Desktop\programção\API em C\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\dalpi\Desktop\programção\API em C\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\dalpi\Desktop\programção\API em C\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\dalpi\Desktop\programção\API em C\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dalpi\Desktop\programção\API em C\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\dalpi\Desktop\programção\API em C\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\dalpi\Desktop\programção\API em C\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dalpi\Desktop\programção\API em C\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\dalpi\Desktop\programção\API em C\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\dalpi\Desktop\programção\API em C\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\dalpi\Desktop\programção\API em C\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\dalpi\Desktop\programção\API em C\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dalpi\Desktop\programção\API em C\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dalpi\Desktop\programção\API em C\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dalpi\Desktop\programção\API em C\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dalpi\Desktop\programção\API em C\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dalpi\Desktop\programção\API em C\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\dalpi\Desktop\programção\API em C\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\dalpi\Desktop\programção\API em C\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\dalpi\Desktop\programção\API em C\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dalpi\Desktop\programção\API em C\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\dalpi\Desktop\programção\API em C\obj\Debug\net7.0\API em C.csproj.Up2Date
